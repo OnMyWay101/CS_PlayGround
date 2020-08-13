@@ -1,0 +1,5 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ByteArrayToString\bin\Debug\ByteArrayToString.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ByteArrayToString\bin\Debug\ByteArrayToString.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ByteArrayToString\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ByteArrayToString\obj\Debug\ByteArrayToString.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ByteArrayToString\obj\Debug\ByteArrayToString.pdb

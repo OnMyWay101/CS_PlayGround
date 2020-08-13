@@ -1,0 +1,8 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\bin\Debug\PanelPicture.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\bin\Debug\PanelPicture.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.Form1.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.Properties.Resources.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.csproj.GenerateResource.Cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.pdb

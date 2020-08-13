@@ -1,0 +1,5 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\bin\Debug\DirectoryOperate.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\bin\Debug\DirectoryOperate.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.pdb
