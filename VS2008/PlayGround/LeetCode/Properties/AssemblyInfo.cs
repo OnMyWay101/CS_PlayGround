@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DeleteMe")]
+[assembly: AssemblyTitle("LeetCode")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DeleteMe")]
+[assembly: AssemblyProduct("LeetCode")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("825a45bd-f2b8-4d4e-8627-c2f6978cc33d")]
+[assembly: Guid("7547a88a-11b1-4e54-b488-a2cfe3a9d31d")]
 
 // Version information for an assembly consists of the following four values:
 //
