@@ -29,7 +29,7 @@ namespace BaseFunCall
             BaseCall3();
         }
 
-        //虚类，子类重载
+        //虚函数，子类重载
         protected virtual void BaseCall3()
         {
             Console.WriteLine("Base_BaseCall3");

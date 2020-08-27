@@ -48,6 +48,7 @@
     <Compile Include="1.SumOfTwoNum.cs" />
     <Compile Include="121.BestTimeToBuy.cs" />
     <Compile Include="20.ValidBrackets.cs" />
+    <Compile Include="7.IntReverse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

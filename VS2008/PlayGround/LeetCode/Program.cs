@@ -10,7 +10,8 @@ namespace LeetCode
         static void Main(string[] args)
         {
             //ValidBrackets.Run();
-            BestTimeToBuy.Run();
+            //BestTimeToBuy.Run();
+            IntReverse.Run();
             Console.ReadLine();
         }
     }
