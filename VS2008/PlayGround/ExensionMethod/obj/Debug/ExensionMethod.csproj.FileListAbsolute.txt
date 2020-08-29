@@ -1,0 +1,5 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\bin\Debug\ExensionMethod.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\bin\Debug\ExensionMethod.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.pdb

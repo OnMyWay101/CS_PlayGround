@@ -8,3 +8,5 @@ G:\study\C#\PlayGround\VS2008\PlayGround\Test_LINQ\obj\Debug\Test_LINQ.pdb
 G:\study\C#\PlayGround\VS2008\PlayGround\Test_LINQ\bin\Debug\Test_LINQ.exe
 G:\study\C#\PlayGround\VS2008\PlayGround\Test_LINQ\bin\Debug\Test_LINQ.pdb
 G:\study\C#\PlayGround\VS2008\PlayGround\Test_LINQ\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_LINQ\obj\Debug\Test_LINQ.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_LINQ\obj\Debug\Test_LINQ.pdb

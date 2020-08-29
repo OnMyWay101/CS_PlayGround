@@ -17,14 +17,16 @@ namespace XMLToTreeView
         {
             InitializeComponent();
             InitTreeView("hello1.xml");
+            ReadTreeViewToXML(treeView1, "hello1.xml");
         }
         private void InitTreeView(string xmlPath)
         {
             XElement xmlInfo = XElement.Load(xmlPath);
-            Debug.WriteLine(xmlInfo);
-
             treeView1.BeginUpdate();
-            XElementInitTreeNode(treeView1.Nodes, xmlInfo);
+            //添加根节点赋值
+            var RootNode = new TreeNode(xmlInfo.Name.LocalName);
+            treeView1.Nodes.Add(RootNode);
+            XElementInitTreeNode(treeView1.Nodes[0].Nodes, xmlInfo);
             treeView1.EndUpdate();            
         }
         private void XElementInitTreeNode(TreeNodeCollection treeNodes, XElement element)
@@ -42,5 +44,32 @@ namespace XMLToTreeView
                 XElementInitTreeNode(node.Nodes, e);
             }
         }
+
+        public bool ReadTreeViewToXML(TreeView tree, string filePath) /*通过TreeView结构生成XML文件*/
+        {
+            XElement xmlInfo = new XElement(tree.Nodes[0].Text);
+            TreeNodeInitXElement(tree.Nodes[0].Nodes, xmlInfo);
+            xmlInfo.Save(filePath);
+            return true;
+        }
+        private void TreeNodeInitXElement(TreeNodeCollection treeNodes, XElement element)
+        {
+            //定义边界条件
+            if (treeNodes.Count == 0)
+            {
+                return;
+            }
+            foreach (TreeNode node in treeNodes)
+            {
+                var childElement = new XElement(node.Text);
+                element.Add(childElement);
+                TreeNodeInitXElement(node.Nodes, childElement);
+            }
+        }
     }
 }
+
+
+
+
+

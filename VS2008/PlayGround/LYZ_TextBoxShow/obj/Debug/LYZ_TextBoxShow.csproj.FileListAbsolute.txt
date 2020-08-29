@@ -1,0 +1,8 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\bin\Debug\LYZ_TextBoxShow.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\bin\Debug\LYZ_TextBoxShow.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\LYZ_TextBoxShow.Form1.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\LYZ_TextBoxShow.Properties.Resources.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\LYZ_TextBoxShow.csproj.GenerateResource.Cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\LYZ_TextBoxShow.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\LYZ_TextBoxShow\obj\Debug\LYZ_TextBoxShow.pdb

@@ -6,6 +6,16 @@ G:\study\C#\PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.P
 G:\study\C#\PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.csproj.GenerateResource.Cache
 G:\study\C#\PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.exe
 G:\study\C#\PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.pdb
+<<<<<<< HEAD
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\bin\Debug\XMLToTreeView.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\bin\Debug\XMLToTreeView.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Form1.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Properties.Resources.resources
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.csproj.GenerateResource.Cache
+=======
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.exe
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.pdb
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\bin\Debug\XMLToTreeView.exe
@@ -14,3 +24,4 @@ G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\ResolveAssem
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Form1.resources
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Properties.Resources.resources
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.csproj.GenerateResource.Cache
+>>>>>>> d92e30a8ceb6d9a3f5470a7f6f1ae6659647207e

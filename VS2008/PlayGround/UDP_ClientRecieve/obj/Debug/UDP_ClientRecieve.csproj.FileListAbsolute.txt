@@ -1,0 +1,5 @@
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\bin\Debug\UDP_ClientRecieve.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\bin\Debug\UDP_ClientRecieve.pdb
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\ResolveAssemblyReference.cache
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.exe
+E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.pdb
