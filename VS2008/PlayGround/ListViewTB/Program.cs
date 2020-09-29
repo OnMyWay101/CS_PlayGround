@@ -1,12 +1,12 @@
-﻿/*说明：给黎勇智的一个测试TextBox显示的示例程序；
- * 
+﻿/*说明：创建一个ListView但是配有一个TextBox编辑框；
+ * 实现效果：当我点击一个ListView的单元格的时候就会附带一个TextBox的编辑框，编辑完的数值就是该单元格的数值了；
  */
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace LYZ_TextBoxShow
+namespace ListViewTB
 {
     static class Program
     {
