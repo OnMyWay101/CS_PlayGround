@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 using System.Data;
+using DataGridViewTest;
 
 public class Program
 {
@@ -9,10 +10,17 @@ public class Program
     static void Main()
     {
         Application.EnableVisualStyles();
-        Application.Run(new Employees());
+        Application.Run(new Form2());
     }
+    //static void Main()
+    //{
+    //    DataGridViewTest.DataTableTest.Test();
+    //}
 }
 
+/// <summary>
+/// 该类为官方DataGridView类的例程
+/// </summary>
 public class Form1 : System.Windows.Forms.Form
 {
     private Panel buttonPanel = new Panel();
