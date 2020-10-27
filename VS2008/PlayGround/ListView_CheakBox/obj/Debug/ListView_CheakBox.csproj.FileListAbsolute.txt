@@ -14,3 +14,11 @@ D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\
 D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.Form1.resources
 D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.Properties.Resources.resources
 D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.csproj.GenerateResource.Cache
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\bin\Debug\ListView_CheakBox.exe
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\bin\Debug\ListView_CheakBox.pdb
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ResolveAssemblyReference.cache
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.Form1.resources
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.Properties.Resources.resources
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.csproj.GenerateResource.Cache
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.exe
+G:\study\C#\CS_PlayGround\VS2008\PlayGround\ListView_CheakBox\obj\Debug\ListView_CheakBox.pdb

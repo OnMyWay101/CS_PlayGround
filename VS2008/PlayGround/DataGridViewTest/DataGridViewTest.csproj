@@ -51,6 +51,9 @@
     <Compile Include="ComboBoxColumn.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="myTabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Program.cs">
       <SubType>Form</SubType>
     </Compile>

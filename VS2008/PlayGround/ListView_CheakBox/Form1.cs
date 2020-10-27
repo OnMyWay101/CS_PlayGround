@@ -109,9 +109,9 @@ namespace ListView_CheakBox
             //ImageList imageListLarge = new ImageList();
 
             // Initialize the ImageList objects with bitmaps.
-            imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\lf.bmp"));
-            imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\nm.bmp"));
-            imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\sl.bmp"));
+            //imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\lf.bmp"));
+            //imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\nm.bmp"));
+            //imageListSmall.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\sl.bmp"));
             //imageListLarge.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\sl.bmp"));
             //imageListLarge.Images.Add(Bitmap.FromFile(@"C:\Users\wangcj.SINODSP\Desktop\bitMap\wsp.bmp"));
 
@@ -121,6 +121,7 @@ namespace ListView_CheakBox
 
             // Add the ListView to the control collection.
             //this.Controls.Add(listView1);
+           
         }
     }
 }
