@@ -3,3 +3,8 @@ E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\bin
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\ResolveAssemblyReference.cache
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.exe
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\bin\Debug\DirectoryOperate.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\bin\Debug\DirectoryOperate.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\DirectoryOperate\obj\Debug\DirectoryOperate.pdb

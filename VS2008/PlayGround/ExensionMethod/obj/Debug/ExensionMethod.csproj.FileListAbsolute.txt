@@ -3,3 +3,8 @@ E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\bin\D
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ResolveAssemblyReference.cache
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.exe
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ExensionMethod\bin\Debug\ExensionMethod.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ExensionMethod\bin\Debug\ExensionMethod.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\ExensionMethod\obj\Debug\ExensionMethod.pdb

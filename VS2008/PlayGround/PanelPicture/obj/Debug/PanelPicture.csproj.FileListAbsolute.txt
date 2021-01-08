@@ -6,3 +6,11 @@ E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Deb
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.csproj.GenerateResource.Cache
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.exe
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\bin\Debug\PanelPicture.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\bin\Debug\PanelPicture.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.Form1.resources
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.Properties.Resources.resources
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.csproj.GenerateResource.Cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\PanelPicture\obj\Debug\PanelPicture.pdb
