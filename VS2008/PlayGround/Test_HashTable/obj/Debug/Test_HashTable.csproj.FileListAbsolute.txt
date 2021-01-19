@@ -3,3 +3,8 @@ E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_HashTable\bin\D
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\ResolveAssemblyReference.cache
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\Test_HashTable.exe
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\Test_HashTable.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\Test_HashTable\bin\Debug\Test_HashTable.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\Test_HashTable\bin\Debug\Test_HashTable.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\Test_HashTable.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\Test_HashTable\obj\Debug\Test_HashTable.pdb

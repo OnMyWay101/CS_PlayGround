@@ -25,3 +25,11 @@ G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeVie
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Properties.Resources.resources
 G:\study\C#\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.csproj.GenerateResource.Cache
 >>>>>>> d92e30a8ceb6d9a3f5470a7f6f1ae6659647207e
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\bin\Debug\XMLToTreeView.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\bin\Debug\XMLToTreeView.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Form1.resources
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.Properties.Resources.resources
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.csproj.GenerateResource.Cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\XMLToTreeView\obj\Debug\XMLToTreeView.pdb

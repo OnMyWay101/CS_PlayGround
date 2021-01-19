@@ -3,3 +3,8 @@ E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\bi
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\ResolveAssemblyReference.cache
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.exe
 E:\cms\Users\wangcj\test\C#\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\bin\Debug\UDP_ClientRecieve.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\bin\Debug\UDP_ClientRecieve.pdb
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\ResolveAssemblyReference.cache
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.exe
+D:\StudySource\FromGitHub\CS_PlayGround\VS2008\PlayGround\UDP_ClientRecieve\obj\Debug\UDP_ClientRecieve.pdb
