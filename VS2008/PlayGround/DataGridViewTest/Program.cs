@@ -2,9 +2,31 @@
 using System.Drawing;
 using System.Windows.Forms;
 using System.Data;
+using DataGridViewTest;
 
+<<<<<<< HEAD
 
 namespace DataGridViewTest
+=======
+public class Program
+{
+    [STAThreadAttribute()]
+    static void Main()
+    {
+        Application.EnableVisualStyles();
+        Application.Run(new Form2());
+    }
+    //static void Main()
+    //{
+    //    DataGridViewTest.DataTableTest.Test();
+    //}
+}
+
+/// <summary>
+/// 该类为官方DataGridView类的例程
+/// </summary>
+public class Form1 : System.Windows.Forms.Form
+>>>>>>> 659e587b0c3937a76e8d0a530a4bc97d2622274b
 {
 
     public class Program

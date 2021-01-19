@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTest", "TimeTest\TimeTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient2", "TcpClient2\TcpClient2.csproj", "{13B16304-438D-4DB5-A9EC-0E176C2C071E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asyncAwait", "asyncAwait\asyncAwait.csproj", "{79D46AA8-6374-43ED-BA32-FDFCE5465AA7}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CartoonPeople", "CartoonPeople\CartoonPeople.sqlproj", "{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,16 @@ Global
 		{13B16304-438D-4DB5-A9EC-0E176C2C071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B16304-438D-4DB5-A9EC-0E176C2C071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B16304-438D-4DB5-A9EC-0E176C2C071E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D46AA8-6374-43ED-BA32-FDFCE5465AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D46AA8-6374-43ED-BA32-FDFCE5465AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D46AA8-6374-43ED-BA32-FDFCE5465AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D46AA8-6374-43ED-BA32-FDFCE5465AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC3418D-272B-4E0C-A5CE-68E3289CDB98}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
