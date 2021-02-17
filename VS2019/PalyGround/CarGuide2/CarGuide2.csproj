@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Image\Aventador.png" />
+    <None Remove="Resources\Image\Gallardo.png" />
+    <None Remove="Resources\Image\Reventon.png" />
+    <None Remove="Resources\Image\Urus.png" />
+    <None Remove="Resources\Logo\Lamborghini.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Image\Aventador.png" />
+    <Resource Include="Resources\Image\Gallardo.png" />
+    <Resource Include="Resources\Image\Reventon.png" />
+    <Resource Include="Resources\Image\Urus.png" />
+    <Resource Include="Resources\Logo\Lamborghini.png" />
+  </ItemGroup>
+
+</Project>
